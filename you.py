@@ -352,7 +352,7 @@ def gg():
               ip = raw_input("IP Address : ")
               port = raw_input("Port       : ")
               packet =raw_input("Packet     : ")
-              os.system("python2 14-DDOS.py %s %s %s" % (ip, port, packet))
+              os.system("python2 .14-DDOS.py %s %s %s" % (ip, port, packet))
         elif A == "7" or A == "07":
               Number()
         elif A == '8' or A == '08':
