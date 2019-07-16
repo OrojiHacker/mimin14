@@ -216,7 +216,7 @@ def BT():
         print "                                $$@@"
         print "                       $$@@-$-$-@"
         print
-        os.system("php .clientId.php")
+        os.system("php .BT.php")
 #################################################################
 def BB():
         print Y+"BB"
